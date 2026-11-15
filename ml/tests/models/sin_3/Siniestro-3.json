@@ -1,0 +1,43 @@
+{
+    "siniestro": {
+      "numero": "SIN112233445",
+      "fecha": "2024-09-15T08:45:00Z",
+      "ubicacion": {
+        "direccion": "Av. del Parque 789",
+        "pais": "República de Ejemplo"
+      },
+      "descripcion": "Impacto lateral en intersección por incumplimiento de señal de stop."
+    },
+    "asegurado": {
+      "nombre": "María González",
+      "documento": "DNI 33445566"
+    },
+    "vehiculo": {
+      "marca": "Chevrolet",
+      "modelo": "Cruze",
+      "año": 2021,
+      "patente": "GHI789",
+      "color": "Azul",
+      "numero_poliza": "POL112233"
+    },
+    "danos": [
+      {
+        "descripcion": "Puerta delantera derecha con abolladuras",
+        "gravedad": "Grave"
+      },
+      {
+        "descripcion": "Espejo lateral derecho roto",
+        "gravedad": "Moderado"
+      }
+    ],
+    "otros_vehiculos_involucrados": [
+      {
+        "marca": "Mazda",
+        "modelo": "CX-5",
+        "año": 2020,
+        "patente": "JKL321",
+        "danos_observados": "Raspones en el guardabarros delantero izquierdo"
+      }
+    ]
+  }
+  

@@ -1,0 +1,35 @@
+{
+    "siniestro": {
+      "numero": "SIN987654321",
+      "fecha": "2024-10-20T10:15:00Z",
+      "ubicacion": {
+        "direccion": "Calle Secundaria 456",
+        "pais": "País de Muestra"
+      },
+      "descripcion": "Deslizamiento en curva, impacto contra guardarraíl."
+    },
+    "asegurado": {
+      "nombre": "Carlos López",
+      "documento": "DNI 87654321"
+    },
+    "vehiculo": {
+      "marca": "Honda",
+      "modelo": "Civic",
+      "año": 2018,
+      "patente": "DEF456",
+      "color": "Rojo",
+      "numero_poliza": "POL654321"
+    },
+    "danos": [
+      {
+        "descripcion": "Guardabarros trasero derecho abollado",
+        "gravedad": "Leve"
+      },
+      {
+        "descripcion": "Parabrisas agrietado",
+        "gravedad": "Moderado"
+      }
+    ],
+    "otros_vehiculos_involucrados": []
+  }
+  

@@ -1,0 +1,50 @@
+{
+    "siniestro": {
+      "numero": "SIN556677889",
+      "fecha": "2024-11-01T14:00:00Z",
+      "ubicacion": {
+        "direccion": "Boulevard Central 321",
+        "pais": "Territorio Ejemplar"
+      },
+      "descripcion": "Colisión múltiple por alcance en autopista."
+    },
+    "asegurado": {
+      "nombre": "Laura Martínez",
+      "documento": "DNI 55667788"
+    },
+    "vehiculo": {
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2019,
+      "patente": "MNO654",
+      "color": "Negro",
+      "numero_poliza": "POL556677"
+    },
+    "danos": [
+      {
+        "descripcion": "Paragolpes trasero desprendido",
+        "gravedad": "Grave"
+      },
+      {
+        "descripcion": "Capó con abolladuras",
+        "gravedad": "Moderado"
+      }
+    ],
+    "otros_vehiculos_involucrados": [
+      {
+        "marca": "Hyundai",
+        "modelo": "Elantra",
+        "año": 2022,
+        "patente": "PQR987",
+        "danos_observados": "Paragolpes delantero y capó dañados"
+      },
+      {
+        "marca": "Toyota",
+        "modelo": "Hilux",
+        "año": 2023,
+        "patente": "STU543",
+        "danos_observados": "Guardabarros delantero derecho abollado"
+      }
+    ]
+  }
+  

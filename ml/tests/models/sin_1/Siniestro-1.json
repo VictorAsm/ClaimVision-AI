@@ -1,0 +1,42 @@
+{
+    "siniestro": {
+      "numero": "SIN123456789",
+      "fecha": "2024-11-03T15:30:00Z",
+      "ubicacion": {
+        "direccion": "Av. Principal 123",
+        "pais": "País Ejemplo"
+      },
+      "descripcion": "Colisión con otro vehículo en un cruce de semáforo."
+    },
+    "asegurado": {
+      "nombre": "Juan Pérez",
+      "documento": "DNI 12345678"
+    },
+    "vehiculo": {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "año": 2020,
+      "patente": "ABC123",
+      "color": "Gris",
+      "numero_poliza": "POL123456"
+    },
+    "danos": [
+      {
+        "descripcion": "Paragolpes delantero dañado",
+        "gravedad": "Moderado"
+      },
+      {
+        "descripcion": "Luz delantera derecha rota",
+        "gravedad": "Leve"
+      }
+    ],
+    "otros_vehiculos_involucrados": [
+      {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "año": 2019,
+        "patente": "XYZ789",
+        "danos_observados": "Lado izquierdo con rayones y abolladuras"
+      }
+    ]
+  }
